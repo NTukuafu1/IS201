@@ -1,0 +1,39 @@
+.header{
+height: 50px;
+font-size: 50px;
+font-weight:bold;
+line-height: 50px;
+border:solid; 
+border-color: royalblue;
+color: black;
+}
+.common{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif
+}
+.emphasizedText1{
+    color: rgb(222, 38, 38);
+    font-style: italic;
+    font-weight: bold;
+    
+}
+.emphasizedText4{
+    color: royalblue;
+    font-style: italic;
+    font-weight: bold;
+}
+.emphasizedText5{
+    color: goldenrod;
+    font-style: italic;
+    font-weight: bold; 
+} 
+.emphasizedText6{
+    color:green;
+    font-style: italic;
+    font-weight: bold;  
+}
+.emphasizedText7{
+    color: rgb(206, 121, 30);
+    font-style: italic;
+    font-weight: bold; 
+}
